@@ -3,6 +3,10 @@ set -e
 
 REPO=$(git config remote.origin.url)
 
+echo $TRAVIS_BRANCH
+echo $DEPLOY_BRANCH
+echo $TRAVIS_PULL_REQUEST
+
 if [ "$TRAVIS_BRANCH" != "$DEPLOY_BRANCH" ]; then
 	exit 1
 else
