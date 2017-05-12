@@ -18,6 +18,10 @@
   </url>
   
   <url>
+    <loc>http://gangleri.io/pkg/mylib/</loc>
+  </url>
+  
+  <url>
     <loc>http://gangleri.io/tags/book-review/</loc>
     <lastmod>2011-05-03T19:54:30+01:00</lastmod>
     <priority>0</priority>
@@ -37,6 +41,11 @@
   <url>
     <loc>http://gangleri.io/tags/html/</loc>
     <lastmod>2011-05-03T19:54:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gangleri.io/pkg/</loc>
     <priority>0</priority>
   </url>
   
