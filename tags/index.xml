@@ -6,9 +6,29 @@
     <description>Recent content in Tags on Gangleri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
+    <lastBuildDate>Tue, 03 May 2011 19:54:30 +0100</lastBuildDate>
     
 	<atom:link href="http://gangleri.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book Review</title>
+      <link>http://gangleri.io/tags/book-review/</link>
+      <pubDate>Tue, 03 May 2011 19:54:30 +0100</pubDate>
+      
+      <guid>http://gangleri.io/tags/book-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>http://gangleri.io/tags/html/</link>
+      <pubDate>Tue, 03 May 2011 19:54:30 +0100</pubDate>
+      
+      <guid>http://gangleri.io/tags/html/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

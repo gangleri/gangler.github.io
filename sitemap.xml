@@ -13,6 +13,17 @@
   </url>
   
   <url>
+    <loc>http://gangleri.io/post/html5_up_and_running/</loc>
+    <lastmod>2011-05-03T19:54:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gangleri.io/tags/book-review/</loc>
+    <lastmod>2011-05-03T19:54:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gangleri.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -24,6 +35,12 @@
   </url>
   
   <url>
+    <loc>http://gangleri.io/tags/html/</loc>
+    <lastmod>2011-05-03T19:54:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gangleri.io/post/</loc>
     <lastmod>2017-05-05T18:50:13+01:00</lastmod>
     <priority>0</priority>
@@ -31,6 +48,7 @@
   
   <url>
     <loc>http://gangleri.io/tags/</loc>
+    <lastmod>2011-05-03T19:54:30+01:00</lastmod>
     <priority>0</priority>
   </url>
   
