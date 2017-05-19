@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gangleri</title>
-    <link>http://gangleri.io/tags/</link>
+    <link>https://gangleri.io/tags/</link>
     <description>Recent content in Tags on Gangleri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
     <lastBuildDate>Tue, 03 May 2011 19:54:30 +0100</lastBuildDate>
     
-	<atom:link href="http://gangleri.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gangleri.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Book Review</title>
-      <link>http://gangleri.io/tags/book-review/</link>
+      <link>https://gangleri.io/tags/book-review/</link>
       <pubDate>Tue, 03 May 2011 19:54:30 +0100</pubDate>
       
-      <guid>http://gangleri.io/tags/book-review/</guid>
+      <guid>https://gangleri.io/tags/book-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html</title>
-      <link>http://gangleri.io/tags/html/</link>
+      <link>https://gangleri.io/tags/html/</link>
       <pubDate>Tue, 03 May 2011 19:54:30 +0100</pubDate>
       
-      <guid>http://gangleri.io/tags/html/</guid>
+      <guid>https://gangleri.io/tags/html/</guid>
       <description></description>
     </item>
     

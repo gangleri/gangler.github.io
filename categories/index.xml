@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gangleri</title>
-    <link>http://gangleri.io/categories/</link>
+    <link>https://gangleri.io/categories/</link>
     <description>Recent content in Categories on Gangleri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
     
-	<atom:link href="http://gangleri.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gangleri.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

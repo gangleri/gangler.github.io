@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gangleri</title>
-    <link>http://gangleri.io/</link>
+    <link>https://gangleri.io/</link>
     <description>Recent content on Gangleri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
     <lastBuildDate>Fri, 05 May 2017 18:50:13 +0100</lastBuildDate>
     
-	<atom:link href="http://gangleri.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gangleri.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>tonight testing</title>
-      <link>http://gangleri.io/post/tonight-testing/</link>
+      <link>https://gangleri.io/post/tonight-testing/</link>
       <pubDate>Fri, 05 May 2017 18:50:13 +0100</pubDate>
       
-      <guid>http://gangleri.io/post/tonight-testing/</guid>
+      <guid>https://gangleri.io/post/tonight-testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>good to great</title>
-      <link>http://gangleri.io/post/good-to-great/</link>
+      <link>https://gangleri.io/post/good-to-great/</link>
       <pubDate>Fri, 05 May 2017 07:53:09 +0100</pubDate>
       
-      <guid>http://gangleri.io/post/good-to-great/</guid>
+      <guid>https://gangleri.io/post/good-to-great/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML5 Up and Running</title>
-      <link>http://gangleri.io/post/html5_up_and_running/</link>
+      <link>https://gangleri.io/post/html5_up_and_running/</link>
       <pubDate>Tue, 03 May 2011 19:54:30 +0100</pubDate>
       
-      <guid>http://gangleri.io/post/html5_up_and_running/</guid>
+      <guid>https://gangleri.io/post/html5_up_and_running/</guid>
       <description>Given the hype you might be forgiven for mistaking HTML5 as the 2nd coming. But all joking aside this is a significant step for the web but what does it really offer web developers? Well this is a question that I feel is answered in HTML5 Up and Running.
 First thing to point out is that this book at just under 200 pages, is not an in-depth coverage of all the new features coming with HTML5.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://gangleri.io/pkg/mylib/</link>
+      <link>https://gangleri.io/pkg/mylib/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gangleri.io/pkg/mylib/</guid>
+      <guid>https://gangleri.io/pkg/mylib/</guid>
       <description>    Nothing to see here; move along.  </description>
     </item>
     
