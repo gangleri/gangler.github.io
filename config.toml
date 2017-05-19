@@ -1,4 +1,4 @@
-baseURL = "http://gangleri.io"
+baseURL = "https://gangleri.io"
 languageCode = "en-gb"
 title = "Gangleri"
 # Define how many pages appear per site
