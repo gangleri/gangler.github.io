@@ -16,7 +16,7 @@ themesDir = "./themes"
 [params]
     site_author = "Alan Bradley"
     site_description = "The blog of Alan Bradley."
-    location = "Dublin"
+    location = "Belfast"
     # Link custom assets relative to /static
     avatar = "img/me.png"
     header_background = "img/desk.jpg"
