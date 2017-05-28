@@ -7,6 +7,7 @@ aliases = ["/2011/05/03/HTML5UpAndRunning.aspx"]
 title = "HTML5 Up and Running"
 
 +++
+<img align="left" src="/img/html5.jpg">
 Given the hype you might be forgiven for mistaking HTML5 as the 2nd coming. But 
 all joking aside this is a significant step for the web but what does it really 
 offer web developers? Well this is a question that I feel is answered in 
