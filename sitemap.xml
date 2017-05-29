@@ -18,8 +18,38 @@
   </url>
   
   <url>
+    <loc>https://gangleri.io/post/calibre/</loc>
+    <lastmod>2011-04-27T19:54:30+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gangleri.io/post/java_the_good_parts/</loc>
     <lastmod>2011-03-15T19:54:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gangleri.io/post/97_things_every_programmer/</loc>
+    <lastmod>2011-03-13T19:54:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gangleri.io/post/rootingi9000/</loc>
+    <lastmod>2010-12-15T19:54:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gangleri.io/post/passionateprogrammer/</loc>
+    <lastmod>2010-09-26T19:54:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gangleri.io/post/rework/</loc>
+    <lastmod>2010-04-21T19:54:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gangleri.io/post/itsnothowgood/</loc>
+    <lastmod>2010-04-11T19:54:30+01:00</lastmod>
   </url>
   
   <url>
@@ -28,6 +58,12 @@
   
   <url>
     <loc>https://gangleri.io/pkg/mylib/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gangleri.io/tags/android/</loc>
+    <lastmod>2010-12-15T19:54:30+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -78,7 +114,13 @@
   
   <url>
     <loc>https://gangleri.io/tags/</loc>
-    <lastmod>2011-05-03T19:54:30+01:00</lastmod>
+    <lastmod>2010-12-15T19:54:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gangleri.io/tags/utility/</loc>
+    <lastmod>2011-04-27T19:54:30+01:00</lastmod>
     <priority>0</priority>
   </url>
   
