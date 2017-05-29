@@ -2,7 +2,7 @@ baseURL = "https://gangleri.io"
 languageCode = "en-gb"
 title = "Gangleri"
 # Define how many pages appear per site
-paginate = 10
+paginate = 5
 # Enable comments powered by Disqus by entering your disqus shortname
 disqusShortname = ""
 # Enable gogle analytics by entering your tracking code
@@ -20,7 +20,7 @@ themesDir = "./themes"
     # Link custom assets relative to /static
     avatar = "img/me.png"
     header_background = "img/desk.jpg"
-    header_title = "Gangleri"
+    header_title = ""
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
