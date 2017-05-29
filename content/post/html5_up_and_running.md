@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2011-05-03T19:54:30+01:00"
-tags = ["html", "book review"]
+tags = ["html", "book"]
 thumbnail = ""
 aliases = ["/2011/05/03/HTML5UpAndRunning.aspx"]
 title = "HTML5 Up and Running"
