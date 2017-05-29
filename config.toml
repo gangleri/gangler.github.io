@@ -19,7 +19,7 @@ themesDir = "./themes"
     location = "Belfast"
     # Link custom assets relative to /static
     avatar = "img/me.png"
-    header_background = "img/desk.jpg"
+    header_background = "img/milky-way.jpg"
     header_title = ""
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
