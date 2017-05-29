@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movie on Gangleri</title>
+    <link>https://gangleri.io/tags/movie/</link>
+    <description>Recent content in Movie on Gangleri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
+    <lastBuildDate>Fri, 29 Apr 2011 19:54:30 +0100</lastBuildDate>
+    
+	<atom:link href="https://gangleri.io/tags/movie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pirates of Silicon Valley</title>
+      <link>https://gangleri.io/post/pirates_of_silicon_valley/</link>
+      <pubDate>Fri, 29 Apr 2011 19:54:30 +0100</pubDate>
+      
+      <guid>https://gangleri.io/post/pirates_of_silicon_valley/</guid>
+      <description>Pirates of Silicon Valley is an old film now, but I’ve got to see recently. It tells the early story of Apple and Microsoft as they create the PC industry. The first thing to point out is that this film does not have the same level of production as The Social Network had and as a result at times may feel like a TV movie. However, if you’re a geek, you’ll find this entertaining given the portrayals of the leading characters.</description>
+    </item>
+    
+  </channel>
+</rss>

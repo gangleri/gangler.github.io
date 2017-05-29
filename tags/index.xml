@@ -13,11 +13,11 @@
     
     
     <item>
-      <title>Book Review</title>
-      <link>https://gangleri.io/tags/book-review/</link>
+      <title>Book</title>
+      <link>https://gangleri.io/tags/book/</link>
       <pubDate>Tue, 03 May 2011 19:54:30 +0100</pubDate>
       
-      <guid>https://gangleri.io/tags/book-review/</guid>
+      <guid>https://gangleri.io/tags/book/</guid>
       <description></description>
     </item>
     
@@ -27,6 +27,24 @@
       <pubDate>Tue, 03 May 2011 19:54:30 +0100</pubDate>
       
       <guid>https://gangleri.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://gangleri.io/tags/java/</link>
+      <pubDate>Tue, 15 Mar 2011 19:54:30 +0100</pubDate>
+      
+      <guid>https://gangleri.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movie</title>
+      <link>https://gangleri.io/tags/movie/</link>
+      <pubDate>Fri, 29 Apr 2011 19:54:30 +0100</pubDate>
+      
+      <guid>https://gangleri.io/tags/movie/</guid>
       <description></description>
     </item>
     

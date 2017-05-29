@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>https://gangleri.io/post/pirates_of_silicon_valley/</loc>
+    <lastmod>2011-04-29T19:54:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gangleri.io/post/java_the_good_parts/</loc>
+    <lastmod>2011-03-15T19:54:30+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gangleri.io/pkg/canonical-gen/</loc>
   </url>
   
@@ -21,7 +31,7 @@
   </url>
   
   <url>
-    <loc>https://gangleri.io/tags/book-review/</loc>
+    <loc>https://gangleri.io/tags/book/</loc>
     <lastmod>2011-05-03T19:54:30+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -40,6 +50,18 @@
   <url>
     <loc>https://gangleri.io/tags/html/</loc>
     <lastmod>2011-05-03T19:54:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gangleri.io/tags/java/</loc>
+    <lastmod>2011-03-15T19:54:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gangleri.io/tags/movie/</loc>
+    <lastmod>2011-04-29T19:54:30+01:00</lastmod>
     <priority>0</priority>
   </url>
   
