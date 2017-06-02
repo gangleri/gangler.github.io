@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tdd on Gangleri</title>
+    <link>https://gangleri.io/tags/tdd/</link>
+    <description>Recent content in Tdd on Gangleri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
+    <lastBuildDate>Sat, 10 Nov 2007 19:54:30 +0100</lastBuildDate>
+    
+	<atom:link href="https://gangleri.io/tags/tdd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Driven Development: A developer’s safety net</title>
+      <link>https://gangleri.io/post/tddadeveloperssafetynet/</link>
+      <pubDate>Sat, 10 Nov 2007 19:54:30 +0100</pubDate>
+      
+      <guid>https://gangleri.io/post/tddadeveloperssafetynet/</guid>
+      <description>Introduction Test Drive Development (TDD) or unit testing are terms you may or may not have come across in the past, in this series of posts I’m going to look at TDD, I’ll give a brief overview and my arguments for TDD. In later posts, I will begin to look more closely at the features available in Visual Studio 2008 to help you integrate TDD into your development process. To start with let us look at the sport of rock climbing.</description>
+    </item>
+    
+  </channel>
+</rss>

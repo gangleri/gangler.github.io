@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>https://gangleri.io/post/tddadeveloperssafetynet/</loc>
+    <lastmod>2007-11-10T19:54:30+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gangleri.io/pkg/canonical-gen/</loc>
   </url>
   
@@ -115,6 +120,12 @@
   <url>
     <loc>https://gangleri.io/tags/</loc>
     <lastmod>2010-12-15T19:54:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gangleri.io/tags/tdd/</loc>
+    <lastmod>2007-11-10T19:54:30+01:00</lastmod>
     <priority>0</priority>
   </url>
   

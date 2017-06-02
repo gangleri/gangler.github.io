@@ -60,7 +60,7 @@ Calibre is rather like iTunes for your eBook; it allows you to define metadata f
     </item>
     
     <item>
-      <title>97 Thing Every Programmer Should Know</title>
+      <title>97 Things Every Programmer Should Know</title>
       <link>https://gangleri.io/post/97_things_every_programmer/</link>
       <pubDate>Sun, 13 Mar 2011 19:54:30 +0100</pubDate>
       
@@ -105,6 +105,15 @@ Rework is not a very wordy book, and as a result, it&amp;rsquo;s a book you can 
       
       <guid>https://gangleri.io/post/itsnothowgood/</guid>
       <description>On a recent trip to London for DevWeek, I had a bit of time to wander around the Barbican&amp;rsquo;s art gallery. In there, there are loads of interesting designs for things from seats to buildings. However one of the most interesting things I found was in the gift shop. It&amp;rsquo;s a small book with an unpretentious cover. However, the very title just jumped out at me &amp;ldquo;It&amp;rsquo;s Not How Good You Are, It&amp;rsquo;s How Good You Want To Be.</description>
+    </item>
+    
+    <item>
+      <title>Test Driven Development: A developer’s safety net</title>
+      <link>https://gangleri.io/post/tddadeveloperssafetynet/</link>
+      <pubDate>Sat, 10 Nov 2007 19:54:30 +0100</pubDate>
+      
+      <guid>https://gangleri.io/post/tddadeveloperssafetynet/</guid>
+      <description>Introduction Test Drive Development (TDD) or unit testing are terms you may or may not have come across in the past, in this series of posts I’m going to look at TDD, I’ll give a brief overview and my arguments for TDD. In later posts, I will begin to look more closely at the features available in Visual Studio 2008 to help you integrate TDD into your development process. To start with let us look at the sport of rock climbing.</description>
     </item>
     
     <item>
