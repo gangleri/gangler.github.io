@@ -4,7 +4,7 @@ date = "2011-03-13T19:54:30+01:00"
 tags = ["book"]
 thumbnail = ""
 aliases = ["2011/03/13/97ThingEveryProgrammerShouldKnow.aspx"]
-title = "97 Thing Every Programmer Should Know"
+title = "97 Things Every Programmer Should Know"
 
 +++
 {{< image align="right" src="/img/97thingsProg.png">}}
